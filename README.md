@@ -1,7 +1,7 @@
 ![Header](https://github.com/d1m0nchk/Dima-Shlapak/blob/main/Assets/Shlapak%20Dima.png) 
 
 ## About me
-
+123
 
 #### My portfolio - bug reports  
 - PC application - [Texas Massacre](), [Chop chop]()
