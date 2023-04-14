@@ -1,14 +1,11 @@
 ![Header](https://github.com/d1m0nchk/Dima-Shlapak/blob/main/Assets/Shlapak%20Dima.png) 
 
 ## About me
-Меня зовут Александр для друзей просто Саня.
-Порой мне кажется что QA это та профессия где я себя нашел. Все время натыкался на баги в реальной жизни но называю их багами только начиная с 2021. Это год в котором меня приютила it компания BeesCute.
 
-Я прошел все этапы разработки продукта от А до Я. Тестировал Веб приложения, ПК и мобильные игры.
 
 #### My portfolio - bug reports  
-- PC application - [Texas Massacre](https://github.com/Enginer2/Texas_Massacre_Shooter_Game/tree/main/Bug_Reports), [Chop chop](https://github.com/NazaretsOleksandr/Chop_Chop_Game/tree/main/Bug_Reports)
-- Mobile application - [Little Shooter](https://github.com/NazaretsOleksandr/Little_Shooter_Game/tree/main/Bug_Reports), [World Race](https://github.com/NazaretsOleksandr/World_Race_Game/tree/main/Bug_Reports)
+- PC application - [Texas Massacre](), [Chop chop]()
+- Mobile application - [Little Shooter](), [World Race]()
 
 
 ## Languages and Tools
@@ -35,6 +32,6 @@
 
 
 ## Follow Me
-[ ![Telegram](https://img.shields.io/badge/-Telegram-30A5D8?style=for-the-badge&logo=Telegram&logoColor=F6F9FA) ](https://t.me/Nazarets_Oleksandr)
-[ ![Instagam](https://img.shields.io/badge/-Instagram-A601CD?style=for-the-badge&logo=Instagram&logoColor=D6A639) ](https://instagram.com/_nazarets_oleksandr_?igshid=ZDdkNTZiNTM=)
-[ ![Linkedin](https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF) ](https://t.me/Nazarets_Oleksandr)
+[ ![Telegram](https://img.shields.io/badge/-Telegram-30A5D8?style=for-the-badge&logo=Telegram&logoColor=F6F9FA) ]()
+[ ![Instagam](https://img.shields.io/badge/-Instagram-A601CD?style=for-the-badge&logo=Instagram&logoColor=D6A639) ]()
+[ ![Linkedin](https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF) ]()
