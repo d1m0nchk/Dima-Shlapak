@@ -1,4 +1,4 @@
-![Header](https://github.com/NazaretsOleksandr/NazaretsOleksandr/blob/master/assets/%D0%A2%D0%B5%D1%81%D1%82%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F.jpg) 
+![Header](https://github.com/d1m0nchk/Dima-Shlapak/blob/main/Assets/Shlapak%20Dima.png) 
 
 ## About me
 Меня зовут Александр для друзей просто Саня.
